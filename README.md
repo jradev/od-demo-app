@@ -27,5 +27,12 @@ This is a Demo app build over react native
 
 
 - App consist of 3 screens with tabs
-- I use ![react-native-gifted-charts](https://www.npmjs.com/package/react-native-gifted-charts) for the line & piechart
+- I use [react-native-gifted-charts](https://www.npmjs.com/package/react-native-gifted-charts) for the line area & piechart
 - The app is an ejected app & not just an expo app for performance improvement instead
+
+## Install and run on ios
+```
+cd od-demo-app
+npm install
+npm run ios
+```
